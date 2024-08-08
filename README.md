@@ -3,7 +3,7 @@
 ## Description
 10 People - British English Average Tone Speech Synthesis Corpus. It is recorded by British English native speakers, with authentic accent. The phoneme coverage is balanced. Professional phonetician participates in the annotation. It precisely matches with the research and development needs of the speech synthesis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1309?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/tts/1309?source=Github
 
 
 # Specifications
